@@ -7,6 +7,8 @@
  I want to go shopping. I can manually add items. Items I need for a recipe but I don't have I can add automatically. I can set up reminders to check an item and add it if I need to (i.e. Check milk). I can set up reocurring items to buy (i.e. apples, always buy apples).
  I want to plan my meals for the next week. I can queue up recipes to see what I have and what I need. I can add items I need to a shopping list.
 
+### PWA?
+
 
 ### Making requirements.txt
 pip3 freeze > requirements.txt
